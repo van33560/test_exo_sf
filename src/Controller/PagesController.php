@@ -19,6 +19,7 @@ class PagesController
         var_dump('affichage de la page ');
         die;
     }
+    
     /**
      * @Route("/name", name = "page_name")
      */
